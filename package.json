@@ -1,0 +1,21 @@
+{
+  "name": "cucumber-color-theme",
+  "displayName": "cucumber-color-theme",
+  "description": "Unpickled colors.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cucumber Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cucumber_Theme-color-theme.json"
+      }
+    ]
+  }
+}
