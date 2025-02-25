@@ -57,8 +57,8 @@
     "editorGroupHeader.tabsBackground": "#232424",
     "editorGroupHeader.tabsBorder": "#303232",
 
-    "editorGutter.addedBackground": "#4da568",
-    "editorGutter.deletedBackground": "#d26b65",
+    "editorGutter.addedBackground": "#2ebab8",
+    "editorGutter.deletedBackground": "#c87a9c",
     "editorGutter.modifiedBackground": "#5c89f1",
 
     "editorIndentGuide.activeBackground1": "#707070",
@@ -79,11 +79,12 @@
 
     "gitDecoration.modifiedResourceForeground": "#5c89f1",
     "gitDecoration.stageModifiedResourceForeground": "#5c89f1",
-    "gitDecoration.deletedResourceForeground": "#aecb8f",
-    "gitDecoration.stageDeletedResourceForeground": "#aecb8f",
-    "gitDecoration.untrackedResourceForeground": "#4da568",
+    "gitDecoration.deletedResourceForeground": "#c87a9c",
+    "gitDecoration.stageDeletedResourceForeground": "#c87a9c",
+    "gitDecoration.untrackedResourceForeground": "#8e87a0",
     "gitDecoration.ignoredResourceForeground": "#686463",
     "gitDecoration.conflictingResourceForeground": "#d26b65",
+    "gitDecoration.addedResourceForeground": "#2ebab8",
     "gitDecoration.submoduleResourceForeground": "#b3c2bf",
 
     "icon.foreground": "#b3c2bf",
@@ -198,16 +199,16 @@
     "terminal.ansiBrightBlue": "#4e97d3",
     "terminal.ansiBrightCyan": "#44c0d6",
     "terminal.ansiBrightGreen": "#4da568",
-    "terminal.ansiBrightMagenta": "#848ec3",
-    "terminal.ansiBrightRed": "#dc635d",
+    "terminal.ansiBrightMagenta": "#8e87a0",
+    "terminal.ansiBrightRed": "#c87a9c",
     "terminal.ansiBrightWhite": "#f8f8f8",
     "terminal.ansiBrightYellow": "#aecb8f",
     "terminal.ansiBlack": "#303232",
     "terminal.ansiBlue": "#4e97d3",
     "terminal.ansiCyan": "#44c0d6",
     "terminal.ansiGreen": "#4da568",
-    "terminal.ansiMagenta": "#848ec3",
-    "terminal.ansiRed": "#dc635d",
+    "terminal.ansiMagenta": "#8e87a0",
+    "terminal.ansiRed": "#c87a9c",
     "terminal.ansiWhite": "#b3c2bf",
     "terminal.ansiYellow": "#aecb8f",
 
@@ -285,13 +286,13 @@
     {
       "scope": "constant",
       "settings": {
-        "foreground": "#b55c82"
+        "foreground": "#c87a9c"
       }
     },
     {
       "scope": "storage",
       "settings": {
-        "foreground": "#848ec3"
+        "foreground": "#8e87a0"
       }
     },
     {
@@ -303,7 +304,7 @@
     {
       "scope": "string.regexp",
       "settings": {
-        "foreground": "#b55c82"
+        "foreground": "#c87a9c"
       }
     },
     {
@@ -313,7 +314,7 @@
         "punctuation.definition.tag.end"
       ],
       "settings": {
-        "foreground": "#848ec3"
+        "foreground": "#8e87a0"
       }
     },
     {
