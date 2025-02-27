@@ -1,5 +1,5 @@
 {
-  "name": "Cucumber Theme",
+  "name": "Cucumber",
   "colors": {
     "actionBar.toggledBackground": "#383a49",
 
@@ -81,7 +81,7 @@
     "gitDecoration.stageModifiedResourceForeground": "#5c89f1",
     "gitDecoration.deletedResourceForeground": "#c87a9c",
     "gitDecoration.stageDeletedResourceForeground": "#c87a9c",
-    "gitDecoration.untrackedResourceForeground": "#8e87a0",
+    "gitDecoration.untrackedResourceForeground": "#9b7ee4",
     "gitDecoration.ignoredResourceForeground": "#686463",
     "gitDecoration.conflictingResourceForeground": "#d26b65",
     "gitDecoration.addedResourceForeground": "#2ebab8",
@@ -199,15 +199,15 @@
     "terminal.ansiBrightBlue": "#4e97d3",
     "terminal.ansiBrightCyan": "#44c0d6",
     "terminal.ansiBrightGreen": "#4da568",
-    "terminal.ansiBrightMagenta": "#8e87a0",
+    "terminal.ansiBrightMagenta": "#9b7ee4",
     "terminal.ansiBrightRed": "#c87a9c",
-    "terminal.ansiBrightWhite": "#f8f8f8",
+    "terminal.ansiBrightWhite": "#daf1f1",
     "terminal.ansiBrightYellow": "#aecb8f",
     "terminal.ansiBlack": "#303232",
     "terminal.ansiBlue": "#4e97d3",
     "terminal.ansiCyan": "#44c0d6",
     "terminal.ansiGreen": "#4da568",
-    "terminal.ansiMagenta": "#8e87a0",
+    "terminal.ansiMagenta": "#9b7ee4",
     "terminal.ansiRed": "#c87a9c",
     "terminal.ansiWhite": "#b3c2bf",
     "terminal.ansiYellow": "#aecb8f",
@@ -237,6 +237,12 @@
     "widget.border": "#313131"
   },
   "tokenColors": [
+    {
+      "scope": ["meta.brace", "meta.punctuation"],
+      "settings": {
+        "foreground": "#b3c2bf"
+      }
+    },
     {
       "scope": "comment",
       "settings": {
@@ -292,7 +298,7 @@
     {
       "scope": "storage",
       "settings": {
-        "foreground": "#8e87a0"
+        "foreground": "#9b7ee4"
       }
     },
     {
@@ -309,12 +315,22 @@
     },
     {
       "scope": [
+        "meta.punctuation.template-expression",
+        "punctuation.definition.template-expression.begin",
+        "punctuation.definition.template-expression.end"
+      ],
+      "settings": {
+        "foreground": "#c87a9c"
+      }
+    },
+    {
+      "scope": [
         "entity.name.tag",
         "punctuation.definition.tag.begin",
         "punctuation.definition.tag.end"
       ],
       "settings": {
-        "foreground": "#8e87a0"
+        "foreground": "#4e97d3"
       }
     },
     {

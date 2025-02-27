@@ -12,9 +12,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Cucumber Theme",
+        "label": "Cucumber",
         "uiTheme": "vs-dark",
-        "path": "./themes/Cucumber_Theme-color-theme.json"
+        "path": "./themes/cucumber-color-theme.json"
+      },
+      {
+        "label": "Cucumber Cool",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cucumber-cool-color-theme.json"
       }
     ]
   }
