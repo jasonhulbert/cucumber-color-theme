@@ -84,8 +84,8 @@
     "gitDecoration.untrackedResourceForeground": "#9b7ee4",
     "gitDecoration.ignoredResourceForeground": "#686463",
     "gitDecoration.conflictingResourceForeground": "#c05959",
-    "gitDecoration.addedResourceForeground": "#2ebab8",
-    "gitDecoration.submoduleResourceForeground": "#b3c2bf",
+    "gitDecoration.addedResourceForeground": "#4da568",
+    "gitDecoration.submoduleResourceForeground": "#44c0d6",
 
     "icon.foreground": "#b3c2bf",
 
