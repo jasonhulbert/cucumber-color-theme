@@ -58,7 +58,7 @@
     "editorGroupHeader.tabsBorder": "#2e3935",
 
     "editorGutter.addedBackground": "#2ebab8",
-    "editorGutter.deletedBackground": "#c87a9c",
+    "editorGutter.deletedBackground": "#c98777",
     "editorGutter.modifiedBackground": "#5c89f1",
 
     "editorIndentGuide.activeBackground1": "#707070",
@@ -79,11 +79,11 @@
 
     "gitDecoration.modifiedResourceForeground": "#5c89f1",
     "gitDecoration.stageModifiedResourceForeground": "#5c89f1",
-    "gitDecoration.deletedResourceForeground": "#c87a9c",
-    "gitDecoration.stageDeletedResourceForeground": "#c87a9c",
+    "gitDecoration.deletedResourceForeground": "#c98777",
+    "gitDecoration.stageDeletedResourceForeground": "#c98777",
     "gitDecoration.untrackedResourceForeground": "#9b7ee4",
     "gitDecoration.ignoredResourceForeground": "#686463",
-    "gitDecoration.conflictingResourceForeground": "#d26b65",
+    "gitDecoration.conflictingResourceForeground": "#c05959",
     "gitDecoration.addedResourceForeground": "#2ebab8",
     "gitDecoration.submoduleResourceForeground": "#b3c2bf",
 
@@ -200,7 +200,7 @@
     "terminal.ansiBrightCyan": "#44c0d6",
     "terminal.ansiBrightGreen": "#4da568",
     "terminal.ansiBrightMagenta": "#9b7ee4",
-    "terminal.ansiBrightRed": "#c87a9c",
+    "terminal.ansiBrightRed": "#c98777",
     "terminal.ansiBrightWhite": "#daf1f1",
     "terminal.ansiBrightYellow": "#aecb8f",
     "terminal.ansiBlack": "#2e3935",
@@ -208,7 +208,7 @@
     "terminal.ansiCyan": "#44c0d6",
     "terminal.ansiGreen": "#4da568",
     "terminal.ansiMagenta": "#9b7ee4",
-    "terminal.ansiRed": "#c87a9c",
+    "terminal.ansiRed": "#c98777",
     "terminal.ansiWhite": "#b3c2bf",
     "terminal.ansiYellow": "#aecb8f",
 
@@ -292,7 +292,7 @@
     {
       "scope": "constant",
       "settings": {
-        "foreground": "#c87a9c"
+        "foreground": "#c98777"
       }
     },
     {
@@ -310,7 +310,7 @@
     {
       "scope": "string.regexp",
       "settings": {
-        "foreground": "#c87a9c"
+        "foreground": "#c98777"
       }
     },
     {
@@ -320,7 +320,7 @@
         "punctuation.definition.template-expression.end"
       ],
       "settings": {
-        "foreground": "#c87a9c"
+        "foreground": "#c98777"
       }
     },
     {
