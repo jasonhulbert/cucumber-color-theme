@@ -33,11 +33,11 @@
 
     "descriptionForeground": "#686463",
 
-    "diffEditor.insertedLineBackground": "#4da56820",
-    "diffEditor.insertedTextBackground": "#4da56840",
+    "diffEditor.insertedLineBackground": "#2eba9720",
+    "diffEditor.insertedTextBackground": "#2eba9740",
     "diffEditor.removedLineBackground": "#d26b6520",
     "diffEditor.removedTextBackground": "#d26b6540",
-    "diffEditorGutter.insertedLineBackground": "#4da56820",
+    "diffEditorGutter.insertedLineBackground": "#2eba9720",
     "diffEditorGutter.removedLineBackground": "#d26b6520",
     "diffEditor.border": "#2e3935",
 
@@ -57,7 +57,7 @@
     "editorGroupHeader.tabsBackground": "#202825",
     "editorGroupHeader.tabsBorder": "#2e3935",
 
-    "editorGutter.addedBackground": "#2ebab8",
+    "editorGutter.addedBackground": "#2eba97",
     "editorGutter.deletedBackground": "#c98777",
     "editorGutter.modifiedBackground": "#5c89f1",
 
@@ -84,7 +84,7 @@
     "gitDecoration.untrackedResourceForeground": "#9b7ee4",
     "gitDecoration.ignoredResourceForeground": "#686463",
     "gitDecoration.conflictingResourceForeground": "#c05959",
-    "gitDecoration.addedResourceForeground": "#4da568",
+    "gitDecoration.addedResourceForeground": "#2eba97",
     "gitDecoration.submoduleResourceForeground": "#44c0d6",
 
     "icon.foreground": "#b3c2bf",
@@ -198,7 +198,7 @@
     "terminal.ansiBrightBlack": "#686463",
     "terminal.ansiBrightBlue": "#4e97d3",
     "terminal.ansiBrightCyan": "#44c0d6",
-    "terminal.ansiBrightGreen": "#4da568",
+    "terminal.ansiBrightGreen": "#2eba97",
     "terminal.ansiBrightMagenta": "#9b7ee4",
     "terminal.ansiBrightRed": "#c98777",
     "terminal.ansiBrightWhite": "#daf1f1",
@@ -206,7 +206,7 @@
     "terminal.ansiBlack": "#2e3935",
     "terminal.ansiBlue": "#4e97d3",
     "terminal.ansiCyan": "#44c0d6",
-    "terminal.ansiGreen": "#4da568",
+    "terminal.ansiGreen": "#2eba97",
     "terminal.ansiMagenta": "#9b7ee4",
     "terminal.ansiRed": "#c98777",
     "terminal.ansiWhite": "#b3c2bf",
@@ -345,13 +345,13 @@
         "source.css entity.other.attribute-name.pseudo-class"
       ],
       "settings": {
-        "foreground": "#2ebab8"
+        "foreground": "#2eba97"
       }
     },
     {
       "scope": ["support.type", "entity.name.type", "entity.other.attribute"],
       "settings": {
-        "foreground": "#2ebab8"
+        "foreground": "#2eba97"
       }
     },
     {
@@ -363,7 +363,7 @@
         "entity.name.class"
       ],
       "settings": {
-        "foreground": "#2ebab8"
+        "foreground": "#2eba97"
       }
     },
     {
@@ -373,7 +373,7 @@
         "entity.other.inherited-class"
       ],
       "settings": {
-        "foreground": "#2ebab8"
+        "foreground": "#2eba97"
       }
     },
     {
@@ -403,7 +403,7 @@
     {
       "scope": "markup.heading.markdown",
       "settings": {
-        "foreground": "#2ebab8"
+        "foreground": "#2eba97"
       }
     },
     {
@@ -427,7 +427,7 @@
     {
       "scope": "punctuation.definition.heading.markdown",
       "settings": {
-        "foreground": "#2ebab8",
+        "foreground": "#2eba97",
         "fontStyle": "bold"
       }
     },
