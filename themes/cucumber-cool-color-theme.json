@@ -58,7 +58,7 @@
     "editorGroupHeader.tabsBorder": "#1c2323",
 
     "editorGutter.addedBackground": "#2ebab8",
-    "editorGutter.deletedBackground": "#c98777",
+    "editorGutter.deletedBackground": "#dd9482",
     "editorGutter.modifiedBackground": "#5c89f1",
 
     "editorIndentGuide.activeBackground1": "#707070",
@@ -79,8 +79,8 @@
 
     "gitDecoration.modifiedResourceForeground": "#5c89f1",
     "gitDecoration.stageModifiedResourceForeground": "#5c89f1",
-    "gitDecoration.deletedResourceForeground": "#c98777",
-    "gitDecoration.stageDeletedResourceForeground": "#c98777",
+    "gitDecoration.deletedResourceForeground": "#dd9482",
+    "gitDecoration.stageDeletedResourceForeground": "#dd9482",
     "gitDecoration.untrackedResourceForeground": "#9b7ee4",
     "gitDecoration.ignoredResourceForeground": "#686463",
     "gitDecoration.conflictingResourceForeground": "#c05959",
@@ -200,17 +200,17 @@
     "terminal.ansiBrightCyan": "#44c0d6",
     "terminal.ansiBrightGreen": "#2eba97",
     "terminal.ansiBrightMagenta": "#9b7ee4",
-    "terminal.ansiBrightRed": "#c98777",
+    "terminal.ansiBrightRed": "#dd9482",
     "terminal.ansiBrightWhite": "#cceeed",
-    "terminal.ansiBrightYellow": "#aecb8f",
+    "terminal.ansiBrightYellow": "#84d7ba",
     "terminal.ansiBlack": "#1c2323",
     "terminal.ansiBlue": "#4e97d3",
     "terminal.ansiCyan": "#44c0d6",
     "terminal.ansiGreen": "#2eba97",
     "terminal.ansiMagenta": "#9b7ee4",
-    "terminal.ansiRed": "#c98777",
+    "terminal.ansiRed": "#dd9482",
     "terminal.ansiWhite": "#b3c2bf",
-    "terminal.ansiYellow": "#aecb8f",
+    "terminal.ansiYellow": "#84d7ba",
 
     "textBlockQuote.background": "#1c2323",
     "textBlockQuote.border": "#686463",
@@ -292,7 +292,7 @@
     {
       "scope": "constant",
       "settings": {
-        "foreground": "#c98777"
+        "foreground": "#dd9482"
       }
     },
     {
@@ -310,7 +310,7 @@
     {
       "scope": "string.regexp",
       "settings": {
-        "foreground": "#c98777"
+        "foreground": "#dd9482"
       }
     },
     {
@@ -320,7 +320,7 @@
         "punctuation.definition.template-expression.end"
       ],
       "settings": {
-        "foreground": "#c98777"
+        "foreground": "#dd9482"
       }
     },
     {
@@ -385,13 +385,13 @@
     {
       "scope": ["entity.name.function", "support.function"],
       "settings": {
-        "foreground": "#aecb8f"
+        "foreground": "#84d7ba"
       }
     },
     {
       "scope": ["punctuation.decorator"],
       "settings": {
-        "foreground": "#aecb8f"
+        "foreground": "#84d7ba"
       }
     },
     {
