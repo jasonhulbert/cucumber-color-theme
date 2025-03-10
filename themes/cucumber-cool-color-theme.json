@@ -59,7 +59,7 @@
 
     "editorGutter.addedBackground": "#2ebab8",
     "editorGutter.deletedBackground": "#dd9482",
-    "editorGutter.modifiedBackground": "#5c89f1",
+    "editorGutter.modifiedBackground": "#788af2",
 
     "editorIndentGuide.activeBackground1": "#707070",
     "editorIndentGuide.background1": "#404040",
@@ -77,8 +77,8 @@
 
     "foreground": "#b3c2bf",
 
-    "gitDecoration.modifiedResourceForeground": "#5c89f1",
-    "gitDecoration.stageModifiedResourceForeground": "#5c89f1",
+    "gitDecoration.modifiedResourceForeground": "#788af2",
+    "gitDecoration.stageModifiedResourceForeground": "#788af2",
     "gitDecoration.deletedResourceForeground": "#dd9482",
     "gitDecoration.stageDeletedResourceForeground": "#dd9482",
     "gitDecoration.untrackedResourceForeground": "#9b7ee4",
@@ -106,7 +106,7 @@
     "list.focusBackground": "#0e483f40",
     "list.hoverBackground": "#0e483f40",
     "list.focusForeground": "#b3c2bf",
-    "list.highlightForeground": "#4e97d3",
+    "list.highlightForeground": "#788af2",
     "list.dropBackground": "#383b3d",
 
     "menu.background": "#0f1616",
@@ -196,7 +196,7 @@
     "terminal.inactiveSelectionBackground": "#22796c30",
     "terminal.tab.activeBorder": "#22796c",
     "terminal.ansiBrightBlack": "#686463",
-    "terminal.ansiBrightBlue": "#4e97d3",
+    "terminal.ansiBrightBlue": "#788af2",
     "terminal.ansiBrightCyan": "#44c0d6",
     "terminal.ansiBrightGreen": "#2eba97",
     "terminal.ansiBrightMagenta": "#9b7ee4",
@@ -204,7 +204,7 @@
     "terminal.ansiBrightWhite": "#ffffff",
     "terminal.ansiBrightYellow": "#e2e3b3",
     "terminal.ansiBlack": "#1c2323",
-    "terminal.ansiBlue": "#4e97d3",
+    "terminal.ansiBlue": "#788af2",
     "terminal.ansiCyan": "#44c0d6",
     "terminal.ansiGreen": "#2eba97",
     "terminal.ansiMagenta": "#9b7ee4",
@@ -217,8 +217,8 @@
 
     "textCodeBlock.background": "#1c2323",
 
-    "textLink.activeForeground": "#4e97d3",
-    "textLink.foreground": "#4e97d3",
+    "textLink.activeForeground": "#3dacc2",
+    "textLink.foreground": "#3dacc2",
 
     "textPreformat.background": "#1c2323",
     "textPreformat.foreground": "#e2e3b3",
@@ -253,7 +253,7 @@
     {
       "scope": "keyword",
       "settings": {
-        "foreground": "#4e97d3"
+        "foreground": "#47a3ff"
       }
     },
     {
@@ -271,7 +271,7 @@
     {
       "scope": "variable.language",
       "settings": {
-        "foreground": "#4e97d3"
+        "foreground": "#47a3ff"
       }
     },
     {
@@ -330,7 +330,7 @@
         "punctuation.definition.tag.end"
       ],
       "settings": {
-        "foreground": "#4e97d3"
+        "foreground": "#47a3ff"
       }
     },
     {
@@ -409,7 +409,7 @@
     {
       "scope": "markup.underline.link",
       "settings": {
-        "foreground": "#4e97d3"
+        "foreground": "#47a3ff"
       }
     },
     {
