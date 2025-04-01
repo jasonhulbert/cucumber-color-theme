@@ -3,7 +3,7 @@ const path = require("path");
 
 const Mode = {
   Dark: "dark",
-  Light: "light"
+  Light: "light",
 };
 
 const configs = [
@@ -45,25 +45,25 @@ const configs = [
     colors: {
       accent: "#22796c",
       accentBackground: "#8abfb7",
-      background: "#dae5e5",
+      background: "#e3e3e1",
       foreground: "#3f3f3f",
       brightBackground: "#ffffff",
       brightForeground: "#000000",
       border: "#c2cdcd",
-      editorBackground: "#edf3f3",
+      editorBackground: "#f6f6f5",
       editorForeground: "#323131",
-      theme1: "#1e7978",
-      theme2: "#a4885e",
-      theme3: "#307fc4",
-      theme4: "#a96958",
-      theme5: "#5e6ec7",
-      theme6: "#3190a3",
-      theme7: "#93951c",
-      theme8: "#3379bf",
-      theme9: "#348c7d",
-      theme10: "#2f8e9f",
-      theme11: "#8067c0",
-      theme12: "#44816c",
+      theme1: "#036058",
+      theme2: "#88560a",
+      theme3: "#0865b6",
+      theme4: "#943d25",
+      theme5: "#414e97",
+      theme6: "#0d4753",
+      theme7: "#656707",
+      theme8: "#086e96",
+      theme9: "#265e6a",
+      theme10: "#05579f",
+      theme11: "#3d1e8c",
+      theme12: "#007264",
       theme13: "#ad4d4d",
       theme14: "#1da06b",
       theme15: "#615c5a",
