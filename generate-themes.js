@@ -51,7 +51,7 @@ const configs = [
       brightBackground: "#ffffff",
       brightForeground: "#000000",
       border: "#d1cfcb",
-      editorBackground: "#f7f3ed",
+      editorBackground: "#faf8f4",
       editorForeground: "#323131",
       inactive: "#989f9c",
       theme1: "#038177",
