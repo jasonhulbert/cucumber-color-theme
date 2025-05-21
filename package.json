@@ -22,5 +22,8 @@
         "path": "./themes/Cucumber-Light_color-theme.json"
       }
     ]
+  },
+  "scripts": {
+    "generate": "node ./generate-themes.js"
   }
 }

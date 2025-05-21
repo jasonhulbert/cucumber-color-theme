@@ -36,7 +36,7 @@
     "dropdown.foreground": "#323131",
     "dropdown.listBackground": "#faf8f4",
     "editor.background": "#faf8f4",
-    "editor.findMatchBackground": "#65670760",
+    "editor.findMatchBackground": "#77790a60",
     "editor.foreground": "#323131",
     "editor.inactiveSelectionBackground": "#22796c60",
     "editor.selectionHighlightBackground": "#22796c80",
@@ -63,7 +63,7 @@
     "gitDecoration.ignoredResourceForeground": "#989f9c",
     "gitDecoration.conflictingResourceForeground": "#ad4d4d",
     "gitDecoration.addedResourceForeground": "#1da06b",
-    "gitDecoration.submoduleResourceForeground": "#506db0",
+    "gitDecoration.submoduleResourceForeground": "#73580c",
     "icon.foreground": "#323131",
     "input.background": "#faf8f4",
     "input.border": "#d1cfcb",
@@ -98,9 +98,9 @@
     "panelTitle.activeForeground": "#323131",
     "panelTitle.inactiveForeground": "#989f9c",
     "peekViewEditor.background": "#faf8f4",
-    "peekViewEditor.matchHighlightBackground": "#65670760",
+    "peekViewEditor.matchHighlightBackground": "#77790a60",
     "peekViewResult.background": "#faf8f4",
-    "peekViewResult.matchHighlightBackground": "#65670760",
+    "peekViewResult.matchHighlightBackground": "#77790a60",
     "pickerGroup.border": "#d1cfcb",
     "ports.iconRunningProcessForeground": "#1da06b",
     "progressBar.background": "#22796c",
@@ -155,7 +155,7 @@
     "terminal.ansiBrightMagenta": "#534af3",
     "terminal.ansiBrightRed": "#943d25",
     "terminal.ansiBrightWhite": "#000000",
-    "terminal.ansiBrightYellow": "#656707",
+    "terminal.ansiBrightYellow": "#77790a",
     "terminal.ansiBlack": "#ffffff",
     "terminal.ansiBlue": "#0865b6",
     "terminal.ansiCyan": "#006b95",
@@ -163,7 +163,7 @@
     "terminal.ansiMagenta": "#534af3",
     "terminal.ansiRed": "#943d25",
     "terminal.ansiWhite": "#323131",
-    "terminal.ansiYellow": "#656707",
+    "terminal.ansiYellow": "#77790a",
     "textBlockQuote.background": "#d1cfcb",
     "textBlockQuote.border": "#22796c",
     "textCodeBlock.background": "#edebe7",
@@ -207,13 +207,13 @@
     {
       "scope": "entity.name.operator",
       "settings": {
-        "foreground": "#0d4753"
+        "foreground": "#075e70"
       }
     },
     {
       "scope": "variable",
       "settings": {
-        "foreground": "#265e6a"
+        "foreground": "#003a47"
       }
     },
     {
@@ -234,7 +234,7 @@
         "entity.name.enum.member"
       ],
       "settings": {
-        "foreground": "#506db0"
+        "foreground": "#73580c"
       }
     },
     {
@@ -252,7 +252,7 @@
     {
       "scope": "string",
       "settings": {
-        "foreground": "#656707"
+        "foreground": "#77790a"
       }
     },
     {
@@ -333,7 +333,7 @@
         "meta.object-literal.key"
       ],
       "settings": {
-        "foreground": "#265e6a"
+        "foreground": "#003a47"
       }
     },
     {
@@ -342,7 +342,7 @@
         "support.function"
       ],
       "settings": {
-        "foreground": "#236854"
+        "foreground": "#136e4d"
       }
     },
     {
@@ -350,13 +350,13 @@
         "punctuation.decorator"
       ],
       "settings": {
-        "foreground": "#236854"
+        "foreground": "#136e4d"
       }
     },
     {
       "scope": "meta.paragraph.markdown",
       "settings": {
-        "foreground": "#656707"
+        "foreground": "#77790a"
       }
     },
     {
@@ -380,7 +380,7 @@
         "punctuation.definition.metadata.markdown"
       ],
       "settings": {
-        "foreground": "#506db0"
+        "foreground": "#73580c"
       }
     },
     {
