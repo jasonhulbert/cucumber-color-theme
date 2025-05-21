@@ -31,7 +31,7 @@ const configs = [
       theme7: "#e2e3b3",
       theme8: "#47bbff",
       theme9: "#9cd5d5",
-      theme10: "#c4b178",
+      theme10: "#ae9d6b",
       theme11: "#a789f3",
       theme12: "#7edaba",
       theme13: "#c05959",

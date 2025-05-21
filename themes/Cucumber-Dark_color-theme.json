@@ -63,7 +63,7 @@
     "gitDecoration.ignoredResourceForeground": "#676e6b",
     "gitDecoration.conflictingResourceForeground": "#c05959",
     "gitDecoration.addedResourceForeground": "#22b479",
-    "gitDecoration.submoduleResourceForeground": "#c4b178",
+    "gitDecoration.submoduleResourceForeground": "#ae9d6b",
     "icon.foreground": "#b3c2bf",
     "input.background": "#141a1a",
     "input.border": "#242a2a",
@@ -234,7 +234,7 @@
         "entity.name.enum.member"
       ],
       "settings": {
-        "foreground": "#c4b178"
+        "foreground": "#ae9d6b"
       }
     },
     {
@@ -380,7 +380,7 @@
         "punctuation.definition.metadata.markdown"
       ],
       "settings": {
-        "foreground": "#c4b178"
+        "foreground": "#ae9d6b"
       }
     },
     {
