@@ -24,11 +24,11 @@
     "checkbox.border": "#242a2a",
     "debugToolBar.background": "#1c2121",
     "descriptionForeground": "#898482",
-    "diffEditor.insertedLineBackground": "#22b47920",
-    "diffEditor.insertedTextBackground": "#22b47940",
+    "diffEditor.insertedLineBackground": "#2faf7c20",
+    "diffEditor.insertedTextBackground": "#2faf7c40",
     "diffEditor.removedLineBackground": "#c0595920",
     "diffEditor.removedTextBackground": "#c0595940",
-    "diffEditorGutter.insertedLineBackground": "#22b47920",
+    "diffEditorGutter.insertedLineBackground": "#2faf7c20",
     "diffEditorGutter.removedLineBackground": "#c0595920",
     "diffEditor.border": "#242a2a",
     "dropdown.background": "#141a1a",
@@ -62,8 +62,8 @@
     "gitDecoration.untrackedResourceForeground": "#a789f3",
     "gitDecoration.ignoredResourceForeground": "#676e6b",
     "gitDecoration.conflictingResourceForeground": "#c05959",
-    "gitDecoration.addedResourceForeground": "#22b479",
-    "gitDecoration.submoduleResourceForeground": "#ae9d6b",
+    "gitDecoration.addedResourceForeground": "#2faf7c",
+    "gitDecoration.submoduleResourceForeground": "#b7f8e4",
     "icon.foreground": "#b3c2bf",
     "input.background": "#141a1a",
     "input.border": "#242a2a",
@@ -102,7 +102,7 @@
     "peekViewResult.background": "#141a1a",
     "peekViewResult.matchHighlightBackground": "#e2e3b360",
     "pickerGroup.border": "#242a2a",
-    "ports.iconRunningProcessForeground": "#22b479",
+    "ports.iconRunningProcessForeground": "#2faf7c",
     "progressBar.background": "#22796c",
     "quickInput.background": "#141a1a",
     "quickInput.foreground": "#b3c2bf",
@@ -213,7 +213,7 @@
     {
       "scope": "variable",
       "settings": {
-        "foreground": "#9cd5d5"
+        "foreground": "#9ae0eb"
       }
     },
     {
@@ -234,7 +234,7 @@
         "entity.name.enum.member"
       ],
       "settings": {
-        "foreground": "#ae9d6b"
+        "foreground": "#b7f8e4"
       }
     },
     {
@@ -333,7 +333,7 @@
         "meta.object-literal.key"
       ],
       "settings": {
-        "foreground": "#9cd5d5"
+        "foreground": "#9ae0eb"
       }
     },
     {
@@ -342,7 +342,7 @@
         "support.function"
       ],
       "settings": {
-        "foreground": "#7edaba"
+        "foreground": "#66dcb3"
       }
     },
     {
@@ -350,7 +350,7 @@
         "punctuation.decorator"
       ],
       "settings": {
-        "foreground": "#7edaba"
+        "foreground": "#66dcb3"
       }
     },
     {
@@ -380,7 +380,7 @@
         "punctuation.definition.metadata.markdown"
       ],
       "settings": {
-        "foreground": "#ae9d6b"
+        "foreground": "#b7f8e4"
       }
     },
     {
