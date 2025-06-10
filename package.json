@@ -24,6 +24,10 @@
     ]
   },
   "scripts": {
-    "generate": "node ./generate-themes.js"
+    "generate": "node ./generate-themes.js",
+    "vsce": "vsce package"
+  },
+  "devDependencies": {
+    "@vscode/vsce": "^3.5.0"
   }
 }
